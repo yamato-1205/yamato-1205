@@ -1,5 +1,5 @@
 - 👋 Hi, I’m YAMATO
-- 👀 I’m interested in Minecraft
+- 👀 I’m interested in VTuber
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
